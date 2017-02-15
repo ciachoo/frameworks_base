@@ -5085,6 +5085,11 @@ public final class Settings {
         public static final String BATTERY_CHARGING_COLOR = "battery_charging_color";
 
         /**
+         * @hide
+         */
+        public static final String FINGERPRINT_WAKE_UNLOCK = "fingerprint_wake_unlock";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
