@@ -5150,6 +5150,12 @@ public final class Settings {
         public static final String NAVBAR_BUTON_CUSTOM_ICON_SWITCH = "navbar_button_custom_icon_switch";
 
         /**
+         * Whether to filter out "inappropriate language" from AICP Extras
+         * @hide
+         */
+        public static final String AE_MODERATE_LANGUAGE = "ae_moderate_language";
+
+        /**
          * Settings to backup. This is here so that it's in the same place as the settings
          * keys and easy to update.
          *
