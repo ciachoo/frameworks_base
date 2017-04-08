@@ -536,6 +536,16 @@ public class IpManager extends StateMachine {
         mAvoidBadWifiTracker.start();
     }
 
+    private void startStateMachineUpdaters() {
+        try {
+            mNwService.registerObserver(mNetlinkTracker);
+        } catch (RemoteException e) {
+            Log.e(mTag, "Couldn't register NetlinkTracker: " + e.toString());
+        }
+
+        mAvoidBadWifiTracker.start();
+    }
+
     @Override
     protected void onQuitting() {
         mCallback.onQuit();
