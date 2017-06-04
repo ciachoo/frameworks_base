@@ -452,7 +452,7 @@
   <!-- Option in navigation drawer that leads to Settings main screen [CHAR LIMIT=30] -->
   <!-- Labels on the side of batter graph in Quick Settings and Settings [CHAR LIMIT=8] -->
   <!-- Label for length of time since the battery graph started [CHAR LIMIT=20] -->
-  <string name="charge_length_format">Hai <xliff:g name="time" example="3 hours">%1$s</xliff:g> hores</string>
+  <string name="charge_length_format">Hai <xliff:g name="time" example="3 hours">%1$s</xliff:g> hores. </string>
   <!-- Label for length of time until battery is charged [CHAR LIMIT=20] -->
   <!-- Hint text for the IP address -->
   <!-- Hint text for DNS -->

@@ -829,7 +829,7 @@
     </string-array>
 
     <!-- Label for length of time since the battery graph started [CHAR LIMIT=20] -->
-    <string name="charge_length_format"><xliff:g name="time" example="3 hours">%1$s</xliff:g> ago</string>
+    <string name="charge_length_format"><xliff:g name="time" example="3 hours">%1$s</xliff:g> ago. </string>
 
     <!-- Label for length of time until battery is charged [CHAR LIMIT=20] -->
     <string name="remaining_length_format"><xliff:g name="time" example="3 hours">%1$s</xliff:g> left</string>

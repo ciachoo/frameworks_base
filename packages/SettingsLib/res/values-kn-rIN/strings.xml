@@ -331,7 +331,7 @@
     <item msgid="8934126114226089439">"50%"</item>
     <item msgid="1286113608943010849">"100%"</item>
   </string-array>
-    <string name="charge_length_format" msgid="8978516217024434156">"<xliff:g id="ID_1">%1$s</xliff:g> ಹಿಂದೆ"</string>
+    <string name="charge_length_format" msgid="8978516217024434156">"<xliff:g id="ID_1">%1$s</xliff:g> ಹಿಂದೆ. "</string>
     <string name="remaining_length_format" msgid="7886337596669190587">"<xliff:g id="ID_1">%1$s</xliff:g> ಉಳಿದಿದೆ"</string>
     <string name="screen_zoom_summary_small" msgid="5867245310241621570">"ಸಣ್ಣದು"</string>
     <string name="screen_zoom_summary_default" msgid="2247006805614056507">"ಡಿಫಾಲ್ಟ್"</string>
