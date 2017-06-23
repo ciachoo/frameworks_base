@@ -69,7 +69,6 @@
   <!-- Screen pinning dialog description (for devices without navbar) -->
   <string name="screen_pinning_description_no_navbar">Zůstává zobrazeno, dokud není uvolněn. Dotykem a podržením tlačítka Zpět bude provedeno uvolnění.</string>
   <!-- String for lockscreen shortcut hints -->
-  <string name="shortcut_hint">Přejeďte prstem od ikony pro %1$s</string>
   <string name="lockscreen_message">Dotykem na ikonu na levé nebo pravé straně zamykací obrazovky změňte zástupce.</string>
   <string name="lockscreen_default_target">Výchozí</string>
   <string name="select_application">Vybrat aplikaci</string>
