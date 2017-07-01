@@ -147,7 +147,7 @@
   <!-- [CHAR LIMIT=30] Location detail panel, device only location mode -->
   <string name="quick_settings_location_detail_mode_sensors_only_title">Només dispositiu</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for high accuracy mode -->
-  <string name="quick_settings_location_detail_mode_high_accuracy_description">Utilitza GPS, la Wi\u2011Fi, el Bluetooth o les xarxes mòbils per determinar la ubicació </string>
+  <string name="quick_settings_location_detail_mode_high_accuracy_description">Utilitza el GPS, la Wi\u2011Fi, el Bluetooth, o les xarxes mòbils per determinar la ubicació</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for battery saving mode -->
   <string name="quick_settings_location_detail_mode_battery_saving_description">Utilitza la Wi\u2011Fi, el Bluetooth o les xarxes mòbils per determinar la ubicació</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->

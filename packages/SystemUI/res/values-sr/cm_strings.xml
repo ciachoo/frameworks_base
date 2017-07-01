@@ -26,8 +26,8 @@
   <!-- Content description of the light brightness slider (not shown on the screen). [CHAR LIMIT=NONE] -->
   <string name="accessibility_notification_brightness">Осветљење</string>
   <!-- Lights settings, LED notification -->
-  <string name="led_notification_title">Поставке светла</string>
-  <string name="led_notification_text">LED светло омогућено помоћу поставки</string>
+  <string name="led_notification_title">Подешавања индикатора</string>
+  <string name="led_notification_text">LED светло је омогућено у подешавањима</string>
   <!-- Notification which notifies user flashlight is enabled -->
   <string name="quick_settings_tile_flashlight_not_title">Блиц је укључен</string>
   <string name="quick_settings_tile_flashlight_not_summary">Додирни да угасиш</string>
@@ -38,15 +38,15 @@
   <!-- [CHAR LIMIT=100] Notification Importance slider: very low importance level description -->
   <string name="notification_importance_very_low">Без прекида целог екрана, завиривања, звука или вибрације. Сакриј на закључаном екрану.</string>
   <!-- Screen pinning dialog description (for devices without navbar) -->
-  <string name="screen_pinning_description_no_navbar">Ово задржава преглед док га не уклониш. Додирни и држи дугме за назад да уклониш.</string>
+  <string name="screen_pinning_description_no_navbar">Ова апликација ће остати активна све док је не откачите дугим притиском на дугме „Назад“.</string>
   <!-- Strings for lockscreen shortcut hints -->
   <string name="left_shortcut_hint">Превуци десно за %1$s</string>
   <string name="right_shortcut_hint">Превуци лево за %1$s</string>
-  <string name="lockscreen_message">Додирни икону лево или десно да доделиш пречицу за закључани екран.</string>
-  <string name="lockscreen_default_target">Подразумевано</string>
-  <string name="select_application">Изабери апликацију</string>
-  <string name="lockscreen_choose_action_title">Изабери акцију</string>
-  <string name="lockscreen_none_target">Ниједан</string>
+  <string name="lockscreen_message">Додирните икону слева или здесна да бисте променили пречицу на закључаном екрану.</string>
+  <string name="lockscreen_default_target">Подразумевана</string>
+  <string name="select_application">Избор апликације</string>
+  <string name="lockscreen_choose_action_title">Избор радње</string>
+  <string name="lockscreen_none_target">Ниједна</string>
   <!-- Play queue -->
   <string name="play_queue_extension">Прикажи на чекању</string>
   <!-- Weather string format in keyguard -->
@@ -114,6 +114,7 @@
   <!-- [CHAR LIMIT=30] Location detail panel, device only location mode -->
   <string name="quick_settings_location_detail_mode_sensors_only_title">Само уређај</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for high accuracy mode -->
+  <string name="quick_settings_location_detail_mode_high_accuracy_description">Користите GPS, Wi-Fi, Bluetooth или мобилне мреже за одређивање локације.</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for battery saving mode -->
   <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
 </resources>

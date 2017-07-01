@@ -146,7 +146,7 @@
   <!-- [CHAR LIMIT=30] Location detail panel, device only location mode -->
   <string name="quick_settings_location_detail_mode_sensors_only_title">Chỉ thiết bị</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for high accuracy mode -->
-  <string name="quick_settings_location_detail_mode_high_accuracy_description">Sử dụng GPS, Wi\u2011Fi, Bluetooth hoặc mạng di động để xác định vị trí </string>
+  <string name="quick_settings_location_detail_mode_high_accuracy_description">Sử dụng GPS, Wi\u2011Fi, Bluetooth hoặc mạng di động để xác định vị trí</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for battery saving mode -->
   <string name="quick_settings_location_detail_mode_battery_saving_description">Sử dụng Wi\u2011Fi, Bluetooth hoặc mạng di động để xác định vị trí</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
