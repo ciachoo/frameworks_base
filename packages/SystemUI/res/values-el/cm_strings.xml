@@ -149,7 +149,6 @@
   <!-- [CHAR LIMIT=30] Location detail panel, device only location mode -->
   <string name="quick_settings_location_detail_mode_sensors_only_title">Μόνο συσκευή</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for high accuracy mode -->
-  <string name="quick_settings_location_detail_mode_high_accuracy_description">Χρήση GPS, Wi\u2011Fi, Bluetooth ή δικτύων κινητής τηλεφωνίας για καθορισμό τοποθεσίας </string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for battery saving mode -->
   <string name="quick_settings_location_detail_mode_battery_saving_description">Χρήση Wi\u2011Fi, Bluetooth ή δικτύων κινητής τηλεφωνίας για καθορισμό τοποθεσίας</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
