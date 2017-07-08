@@ -32,7 +32,7 @@
   <!-- Notification which notifies user flashlight is enabled -->
   <string name="quick_settings_tile_flashlight_not_summary">Торкніться для вимкнення</string>
   <!-- [CHAR LIMIT=NONE] Importance Tuner setting title -->
-  <string name="cm_power_notification_controls_description">За допомогою елементів керування сповіщеннями ви можете налаштувати пріоритет сповіщень додатка – від 0 до 6 рівня.
+  <string name="cm_power_notification_controls_description">За допомогою елементів керування ви можете налаштувати пріоритет сповіщень застосунка – від 0 до 6 рівня.
         \n\n<b>Рівень 6</b>
         \n- Показувати сповіщення вгорі списку
         \n- Виводити на весь екран
@@ -59,8 +59,8 @@
         \n- Вимкнути звук і вібросигнал
         \n- Не показувати на заблокованому екрані та в рядку стану
         \n- Показувати сповіщення внизу списку
-        \n\n<b>Level 0</b>
-        \n- Блокувати всі сповіщення з додатка
+        \n\n<b>Рівень 0</b>
+        \n- Блокувати всі сповіщення з застосунку
     </string>
   <!-- Notification importance level title-->
   <string name="importance_level_title">Пріоритет: рівень %1$d</string>
@@ -71,6 +71,7 @@
   <!-- Strings for lockscreen shortcut hints -->
   <string name="left_shortcut_hint">Проведіть вправо для %1$s</string>
   <string name="right_shortcut_hint">Проведіть вліво для %1$s</string>
+  <string name="shortcut_hint">Ковзніть від піктограми для %1$s</string>
   <string name="lockscreen_message">Натисніть на іконку ліворуч або праворуч для зміни ярлика екрану блокування.</string>
   <string name="lockscreen_default_target">За замовчуванням</string>
   <string name="select_application">Вибрати програму</string>
@@ -144,6 +145,7 @@
   <!-- [CHAR LIMIT=30] Location detail panel, device only location mode -->
   <string name="quick_settings_location_detail_mode_sensors_only_title">По датчиках пристрою</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for high accuracy mode -->
+  <string name="quick_settings_location_detail_mode_high_accuracy_description">Використовувати GPS, Wi‑Fi, Bluetooth і мобільні мережі, щоб визначати місцезнаходження</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for battery saving mode -->
   <string name="quick_settings_location_detail_mode_battery_saving_description">Використовувати Wi‑Fi, Bluetooth і мобільні мережі, щоб визначати місцезнаходження</string>
   <!-- [CHAR LIMIT=130] Location detail panel, description for sensors only mode -->
@@ -158,6 +160,8 @@
   <string name="accessibility_quick_settings_ambient_display_changed_on">Ambient дисплей увімкнено.</string>
   <!-- Caffeine -->
   <string name="quick_settings_caffeine_label">Кофеїн</string>
+  <string name="accessibility_quick_settings_caffeine_off">Заборона сну вимк.</string>
+  <string name="accessibility_quick_settings_caffeine_on">Заборона сну увімк</string>
   <!-- Heads up QS tile -->
   <string name="quick_settings_heads_up_label">Спливаючі сповіщення</string>
   <string name="accessibility_quick_settings_heads_up_off">Спливаючі сповіщення вимкнено.</string>
