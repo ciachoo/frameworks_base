@@ -846,7 +846,7 @@
   <!-- Message shown during fingerprint acquisision when the fingerprint cannot be recognized -->
   <string name="fingerprint_acquired_partial">La buelga dixital deteutóse parcialmente. Vuelvi a intentalo.</string>
   <!-- Message shown during fingerprint acquisision when the fingerprint cannot be recognized -->
-  <string name="fingerprint_acquired_insufficient">Nun pudo procesase la buelga dixital. Vuelvi intentalo.</string>
+  <string name="fingerprint_acquired_insufficient">Nun pudo procesase la buelga. Volvi tentalo.</string>
   <!-- Message shown during fingerprint acquisision when the fingerprint sensor needs cleaning -->
   <string name="fingerprint_acquired_imager_dirty">El sensor de buelgues dixitales ta suciu. Llimpia\'l sensor y vuelvi intentalo.</string>
   <!-- Message shown during fingerprint acquisision when the user removes their finger from the sensor too quickly -->
@@ -1830,6 +1830,10 @@
     <item quantity="other">Hai <xliff:g example="1" id="count">%d</xliff:g> años</item>
   </plurals>
   <!-- Phrase describing a relative time using minutes that is not shown on the screen but used for accessibility. This version should be a future point in time. [CHAR LIMIT=NONE] -->
+  <plurals name="duration_minutes_relative_future">
+    <item quantity="one">en <xliff:g example="1" id="count">%d</xliff:g> minutu</item>
+    <item quantity="other">en <xliff:g example="1" id="count">%d</xliff:g> minutos</item>
+  </plurals>
   <!-- Phrase describing a relative time using hours that is not shown on the screen but used for accessibility. This version should be a future point in time. [CHAR LIMIT=NONE] -->
   <!-- Phrase describing a relative time using days that is not shown on the screen but used for accessibility. This version should be a future point in time. [CHAR LIMIT=NONE] -->
   <!-- Phrase describing a relative time using years that is not shown on the screen but used for accessibility. This version should be a future point in time. [CHAR LIMIT=NONE] -->
