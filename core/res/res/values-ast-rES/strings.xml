@@ -143,11 +143,6 @@
   <string name="PwdMmi">Cambéu de contraseña</string>
   <!-- Displayed as the title for a success/failure report changing the SIM PIN. -->
   <string name="PinMmi">Cambéu de PIN</string>
-  <string name="CnipMmi">Númberu de llamada entrante presente</string>
-  <string name="CnirMmi">Númberu de llamada entrante restrinxíu</string>
-  <string name="ThreeWCMmi">Llamada a trés</string>
-  <string name="RuacMmi">Refugu de llamaes molestes non deseaes</string>
-  <string name="CndMmi">Entrega de númberu de llamada entrante</string>
   <string name="DndMmi">Nun molestar</string>
   <!-- Displayed to confirm to the user that caller ID will be restricted on the next call as usual. -->
   <string name="CLIRDefaultOnNextCallOn">El ID d\'emisor presenta\'l valor predetermináu de restrinxíu. Siguiente llamada: Restrinxíu</string>
@@ -1066,9 +1061,9 @@
     <item>Trabayu</item>
     <item>Fax del trabayu</item>
     <item>Fax de casa</item>
-    <item>Busca</item>
-    <item>Otru</item>
-    <item>Personalizar</item>
+    <item>Pager</item>
+    <item>Other</item>
+    <item>Custom</item>
   </string-array>
   <!-- The order of these is important, don't reorder without changing Contacts.java -->
   <!-- Email address types from android.provider.Contacts. This could be used when adding a new e-mail address for a contact, for example. -->
@@ -1083,8 +1078,8 @@
   <string-array name="postalAddressTypes">
     <item>Casa</item>
     <item>Trabayu</item>
-    <item>Otra</item>
-    <item>Personalizar</item>
+    <item>Other</item>
+    <item>Custom</item>
   </string-array>
   <!-- The order of these is important, don't reorder without changing Contacts.java -->
   <!-- Instant Messenger ID types from android.provider.Contacts. This could be used when adding a new IM for a contact, for example. -->
@@ -3270,6 +3265,7 @@
     <item quantity="one"><xliff:g id="count" example="1">%1$d</xliff:g> elementu esbilláu</item>
     <item quantity="other"><xliff:g id="count" example="3">%1$d</xliff:g> elementos esbillaos</item>
   </plurals>
+  <!-- Label describing the number of selected items [CHAR LIMIT=48] -->
   <string name="importance_from_user">Afitesti la importancia d\'estos avisos.</string>
   <string name="importance_from_person">Esto ye importante pola mor de la xente que collaboró.</string>
   <!-- Message to user that app trying to create user for an account that already exists. [CHAR LIMIT=none] -->
