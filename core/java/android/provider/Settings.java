@@ -5159,11 +5159,6 @@ public final class Settings {
         public static final String BATTERY_CHARGING_COLOR = "battery_charging_color";
 
         /**
-         * @hide
-         */
-        public static final String FINGERPRINT_WAKE_UNLOCK = "fingerprint_wake_unlock";
-
-        /**
          * Use Dnd when call active
          * @hide
          */
