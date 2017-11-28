@@ -753,6 +753,8 @@ public class ZenModeHelper {
                 mAllowLights = CMSettings.System.getInt(mContext.getContentResolver(),
                    CMSettings.System.ZEN_PRIORITY_ALLOW_LIGHTS, 1) == 1;
                 break;
+            default:
+                mAllowLights = true;
         }
     }
 
